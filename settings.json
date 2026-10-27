@@ -1,0 +1,9 @@
+{
+  "blink_threshold": 25,
+  "yaw_threshold": 25,
+  "pitch_threshold": 25,
+  "minimum_distance_cm": 45,
+  "recommended_focus_minutes": 25,
+  "recommended_break_minutes": 5,
+  "custom_message": "Return gently to the task in front of you."
+}
